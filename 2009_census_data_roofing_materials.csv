@@ -1,0 +1,316 @@
+﻿District,rural/urban,%_of_Households_Corrugated_Iron_Sheets,%_of_Households_Tiles,%_of_Households_Concrete,Asbestos_%_of_Households_Sheets,%_of_Households_Grass,%_of_Households_Makuti,%_of_Households_Tin,%_of_Households_Mud/Dung,%_of_Households_Other,Households,No_Corrugated_Iron_Sheets,No_Tiles,No_Concrete,No_Asbestos_Sheets,No_Grass,No_Makuti,No_Tin,No_Mud/Dung,No_Other,County,MTEF,Location_1,Province,OBJECTID
+NYANDARUA NORTH,Urban,91.08%,0.62%,0.16%,1.46%,0.64%,0.03%,0.07%,0%,5.94%,23229,21156,144,38,338,148,7,17,1,1380,Nyandarua,"Physical Infrastructure, Housing",,CENTRAL,0
+NYANDARUA SOUTH,Urban,95.38%,0.47%,2.6%,1.46%,0.06%,0%,0%,0.02%,0.02%,5345,5098,25,139,78,3,0,0,1,1,Nyandarua,"Physical Infrastructure, Housing",,CENTRAL,1
+NYERI NORTH,Urban,90.28%,1.13%,5.21%,2.58%,0.49%,0.08%,0.2%,0.01%,0.01%,14208,12827,161,740,367,69,11,29,2,2,Nyeri,"Physical Infrastructure, Housing",,CENTRAL,2
+NYERI SOUTH,Urban,90.89%,2.3%,3.32%,3.04%,0.09%,0.05%,0.14%,0.01%,0.17%,39927,36290,917,1325,1213,36,20,57,2,67,Nyeri,"Physical Infrastructure, Housing",,CENTRAL,3
+KIRINYAGA,Urban,91.41%,0.87%,3.97%,3.5%,0.04%,0.01%,0.03%,0.01%,0.15%,27461,25103,239,1090,960,11,3,9,4,42,Kirinyaga,"Physical Infrastructure, Housing",,CENTRAL,4
+MURANGA NORTH,Urban,75.68%,1.86%,17.97%,3.84%,0.01%,0%,0.51%,0.01%,0.13%,10660,8067,198,1916,409,1,0,54,1,14,Murang'a,"Physical Infrastructure, Housing",,CENTRAL,5
+MURANGA SOUTH,Urban,90.67%,1.51%,4.23%,2.76%,0.27%,0.03%,0.47%,0.05%,0.03%,30455,27614,459,1287,840,81,9,142,15,8,Murang'a,"Physical Infrastructure, Housing",,CENTRAL,6
+KIAMBU EAST(KIAMBAA),Urban,88%,3.22%,6.6%,1.87%,0.01%,0.06%,0.14%,0%,0.11%,62826,55285,2021,4146,1172,8,35,89,1,69,Kiambu,"Physical Infrastructure, Housing",,CENTRAL,7
+KIKUYU,Urban,88.45%,3.68%,6.19%,1.45%,0.01%,0.05%,0.09%,0.01%,0.06%,76759,67896,2826,4750,1112,9,42,70,5,49,Kiambu,"Physical Infrastructure, Housing",,CENTRAL,8
+KIAMBU WEST,Urban,90.04%,2.52%,5.26%,1.5%,0.01%,0.07%,0.54%,0%,0.05%,23023,20729,580,1212,346,2,17,125,1,11,Kiambu,"Physical Infrastructure, Housing",,CENTRAL,9
+LARI,Urban,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Kiambu,"Physical Infrastructure, Housing",,CENTRAL,10
+GITHUNGURI,Urban,80.52%,2.4%,13.84%,2.89%,0.03%,0.13%,0.1%,0%,0.08%,6048,4870,145,837,175,2,8,6,0,5,Kiambu,"Physical Infrastructure, Housing",,CENTRAL,11
+THIKA EAST,Urban,99.22%,0.11%,0.33%,0.33%,0%,0%,0%,0%,0%,902,895,1,3,3,0,0,0,0,0,Kiambu,"Physical Infrastructure, Housing",,CENTRAL,12
+THIKA WEST,Urban,84.4%,5.1%,7.82%,2.38%,0.04%,0.11%,0.05%,0.02%,0.08%,64745,54644,3305,5060,1541,26,68,33,13,55,Kiambu,"Physical Infrastructure, Housing",,CENTRAL,13
+RUIRU,Urban,74.84%,4.25%,18.09%,2.24%,0.13%,0.17%,0.16%,0.08%,0.05%,75089,56194,3191,13587,1680,94,126,120,63,34,Kiambu,"Physical Infrastructure, Housing",,CENTRAL,14
+GATANGA,Urban,42.41%,41.68%,8.23%,7.31%,0%,0%,0%,0%,0.37%,547,232,228,45,40,0,0,0,0,2,Murang'a,"Physical Infrastructure, Housing",,CENTRAL,15
+GATUNDU,Urban,79.21%,3.86%,16.57%,0.25%,0%,0%,0%,0.1%,0%,1967,1558,76,326,5,0,0,0,2,0,Kiambu,"Physical Infrastructure, Housing",,CENTRAL,16
+NYANDARUA NORTH,Rural,95.67%,0.6%,0.03%,2.09%,1.01%,0.1%,0.1%,0.02%,0.4%,52181,49919,311,14,1090,526,51,50,10,210,Nyandarua,"Physical Infrastructure, Housing",,CENTRAL,17
+NYANDARUA SOUTH,Rural,96.08%,0.63%,0.1%,2.2%,0.75%,0.07%,0.02%,0.02%,0.14%,61738,59316,386,61,1358,461,44,14,10,88,Nyandarua,"Physical Infrastructure, Housing",,CENTRAL,18
+NYERI NORTH,Rural,96%,0.92%,0.15%,1.6%,0.95%,0.14%,0.07%,0.02%,0.15%,81212,77965,750,124,1297,768,112,54,20,122,Nyeri,"Physical Infrastructure, Housing",,CENTRAL,19
+NYERI SOUTH,Rural,96.07%,0.83%,0.28%,2.37%,0.04%,0.01%,0.34%,0.03%,0.02%,66006,63412,548,186,1564,25,5,227,23,16,Nyeri,"Physical Infrastructure, Housing",,CENTRAL,20
+KIRINYAGA,Rural,95.72%,0.72%,0.16%,2.41%,0.75%,0.03%,0.07%,0.04%,0.11%,126520,121100,916,197,3051,945,38,88,45,140,Kirinyaga,"Physical Infrastructure, Housing",,CENTRAL,21
+MURANGA NORTH,Rural,96.12%,1.12%,0.65%,1.37%,0.07%,0.04%,0.56%,0.03%,0.02%,86922,83553,974,569,1188,61,37,489,30,21,Murang'a,"Physical Infrastructure, Housing",,CENTRAL,22
+MURANGA SOUTH,Rural,96.01%,0.98%,0.51%,1.44%,0.19%,0.04%,0.73%,0.06%,0.04%,84095,80743,825,429,1211,157,33,610,54,33,Murang'a,"Physical Infrastructure, Housing",,CENTRAL,23
+KIAMBU EAST(KIAMBAA),Rural,92.81%,3.02%,0.54%,1.94%,0.5%,0.2%,0.98%,0%,0.01%,12468,11572,377,67,242,62,25,122,0,1,Kiambu,"Physical Infrastructure, Housing",,CENTRAL,24
+KIKUYU,Rural,50.6%,21.51%,0%,27.09%,0%,0%,0%,0%,0.8%,251,127,54,0,68,0,0,0,0,2,Kiambu,"Physical Infrastructure, Housing",,CENTRAL,25
+KIAMBU WEST,Rural,93.5%,3.76%,1.01%,1.32%,0.04%,0.07%,0.04%,0%,0.25%,13455,12581,506,136,178,6,10,5,0,33,Kiambu,"Physical Infrastructure, Housing",,CENTRAL,26
+LARI,Rural,96.47%,1.58%,0.76%,0.96%,0.11%,0.03%,0.03%,0.01%,0.05%,30767,29680,487,233,295,34,9,10,3,16,Kiambu,"Physical Infrastructure, Housing",,CENTRAL,27
+GITHUNGURI,Rural,95.02%,1.94%,0.55%,1.89%,0.02%,0.46%,0.1%,0.01%,0.02%,33291,31634,645,184,629,7,152,33,2,5,Kiambu,"Physical Infrastructure, Housing",,CENTRAL,28
+THIKA EAST,Rural,92.86%,0.8%,0.35%,2.62%,2.84%,0.18%,0.28%,0.02%,0.06%,19176,17807,153,67,503,544,34,53,4,11,Kiambu,"Physical Infrastructure, Housing",,CENTRAL,29
+THIKA WEST,Rural,92.72%,2.5%,0.22%,3.81%,0.48%,0.05%,0.12%,0.05%,0.04%,7276,6746,182,16,277,35,4,9,4,3,Kiambu,"Physical Infrastructure, Housing",,CENTRAL,30
+RUIRU,Rural,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Kiambu,"Physical Infrastructure, Housing",,CENTRAL,31
+GATANGA,Rural,96.16%,1.08%,0.42%,1.5%,0.11%,0.02%,0.65%,0.03%,0.02%,29653,28514,321,126,444,32,7,192,10,7,Murang'a,"Physical Infrastructure, Housing",,CENTRAL,32
+GATUNDU,Rural,96.29%,1.32%,0.67%,0.73%,0.03%,0.02%,0.25%,0.04%,0.66%,53744,51750,707,360,390,16,10,135,21,355,Kiambu,"Physical Infrastructure, Housing",,CENTRAL,33
+MOMBASA,Urban,72.01%,5.35%,13.87%,3.21%,0.1%,4.65%,0.5%,0.17%,0.15%,138931,100038,7434,19270,4464,135,6458,689,240,203,Mombasa,"Physical Infrastructure, Housing",,COAST,34
+KILINDINI,Urban,85.87%,1.42%,4.57%,3.27%,0.11%,4.19%,0.37%,0.09%,0.11%,118323,101601,1677,5413,3874,126,4960,439,104,129,Mombasa,"Physical Infrastructure, Housing",,COAST,35
+KWALE,Urban,40.69%,0.47%,0.52%,2.66%,0.64%,53.74%,1.26%,0%,0.02%,4053,1649,19,21,108,26,2178,51,0,1,Kwale ,"Physical Infrastructure, Housing",,COAST,36
+KINANGO,Urban,66.33%,1.12%,0.31%,3.42%,4.48%,24.14%,0.06%,0.06%,0.06%,1607,1066,18,5,55,72,388,1,1,1,Kwale ,"Physical Infrastructure, Housing",,COAST,37
+MSAMBWENI,Urban,60.04%,1.29%,0.71%,3.04%,0.79%,34.1%,0.01%,0.02%,0.01%,23788,14282,306,170,722,188,8111,2,4,3,Kwale ,"Physical Infrastructure, Housing",,COAST,38
+KILIFI,Urban,71.22%,1.58%,2.76%,3.27%,0.21%,20.68%,0.14%,0.02%,0.11%,26663,18990,422,736,873,55,5515,38,6,28,Kilifi,"Physical Infrastructure, Housing",,COAST,39
+KALOLENI,Urban,87.51%,0.59%,1.06%,3.02%,0.09%,7.53%,0.18%,0%,0.03%,9375,8204,55,99,283,8,706,17,0,3,Kilifi,"Physical Infrastructure, Housing",,COAST,40
+MALINDI,Urban,62.96%,1.04%,6.8%,4.94%,0.38%,23.51%,0.17%,0.08%,0.12%,34468,21700,358,2344,1701,132,8105,58,28,42,Kilifi,"Physical Infrastructure, Housing",,COAST,41
+TANA RIVER,Urban,73.08%,0.22%,0.03%,4.39%,18.05%,3.65%,0%,0.08%,0.5%,7224,5279,16,2,317,1304,264,0,6,36,Tana River,"Physical Infrastructure, Housing",,COAST,42
+TANA DELTA,Urban,84.04%,0%,0.78%,0.47%,9.23%,4.85%,0.63%,0%,0%,639,537,0,5,3,59,31,4,0,0,Tana River,"Physical Infrastructure, Housing",,COAST,43
+LAMU,Urban,20.31%,0.52%,43.95%,3.04%,0.67%,30.77%,0.34%,0.02%,0.38%,4767,968,25,2095,145,32,1467,16,1,18,Lamu,"Physical Infrastructure, Housing",,COAST,44
+TAITA,Urban,89.91%,3.07%,1.67%,5.03%,0.06%,0.04%,0.11%,0.06%,0.06%,12662,11384,389,211,637,7,5,14,7,8,Taita Taveta,"Physical Infrastructure, Housing",,COAST,45
+TAVETA,Urban,88.52%,0.84%,0.35%,3.57%,3.42%,2.72%,0.43%,0.07%,0.07%,5375,4758,45,19,192,184,146,23,4,4,Taita Taveta,"Physical Infrastructure, Housing",,COAST,46
+MOMBASA,Rural,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Mombasa,"Physical Infrastructure, Housing",,COAST,47
+KILINDINI,Rural,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Mombasa,"Physical Infrastructure, Housing",,COAST,48
+KWALE,Rural,31.12%,0.49%,0.06%,1.13%,2.92%,63.66%,0.26%,0.04%,0.33%,24425,7600,120,14,275,713,15549,64,10,80,Kwale ,"Physical Infrastructure, Housing",,COAST,49
+KINANGO,Rural,38.46%,0.29%,0.03%,2.13%,22.3%,36.34%,0.17%,0.1%,0.19%,32387,12456,95,9,691,7221,11768,55,31,61,Kwale ,"Physical Infrastructure, Housing",,COAST,50
+MSAMBWENI,Rural,22.98%,0.39%,0.09%,0.98%,11.35%,63.72%,0.22%,0.05%,0.23%,35431,8143,137,31,348,4020,22575,78,17,82,Kwale ,"Physical Infrastructure, Housing",,COAST,51
+KILIFI,Rural,22.99%,1.23%,0.15%,1.55%,11%,62.82%,0.08%,0.04%,0.14%,55561,12771,681,86,861,6112,34905,46,21,78,Kilifi,"Physical Infrastructure, Housing",,COAST,52
+KALOLENI,Rural,36.98%,0.87%,0.37%,1.06%,4.65%,55.68%,0.28%,0.03%,0.08%,33121,12248,289,124,352,1540,18441,92,10,25,Kilifi,"Physical Infrastructure, Housing",,COAST,53
+MALINDI,Rural,25.07%,0.45%,0.28%,2.51%,17.1%,54.21%,0.23%,0.05%,0.11%,38663,9691,173,109,969,6611,20961,88,19,42,Kilifi,"Physical Infrastructure, Housing",,COAST,54
+TANA RIVER,Rural,18.39%,0.22%,0.01%,1.09%,68.65%,10.3%,0.04%,0.05%,1.25%,21354,3927,47,2,233,14659,2200,9,10,267,Tana River,"Physical Infrastructure, Housing",,COAST,55
+TANA DELTA,Rural,15.26%,0.72%,0.06%,0.71%,59.02%,22.6%,0.27%,0.02%,1.35%,18057,2755,130,10,128,10658,4081,49,3,243,Tana River,"Physical Infrastructure, Housing",,COAST,56
+LAMU,Rural,34.72%,0.26%,2.14%,2.96%,20.75%,35.97%,0.35%,0.09%,2.77%,17246,5987,45,369,511,3579,6203,60,15,477,Lamu,"Physical Infrastructure, Housing",,COAST,57
+TAITA,Rural,88.96%,0.95%,0.16%,2.37%,5.14%,0.91%,1.13%,0.05%,0.32%,41265,36711,391,66,978,2121,377,467,22,132,Taita Taveta,"Physical Infrastructure, Housing",,COAST,58
+TAVETA,Rural,68.86%,0.55%,0.03%,2.71%,22.04%,4.99%,0.17%,0.46%,0.2%,10737,7393,59,3,291,2366,536,18,49,22,Taita Taveta,"Physical Infrastructure, Housing",,COAST,59
+MARSABIT,Urban,93.82%,0.64%,0.15%,2.96%,0.06%,0%,2.2%,0.17%,0%,3447,3234,22,5,102,2,0,76,6,0,Marsabit,"Physical Infrastructure, Housing",,EASTERN,60
+CHALBI,Urban,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Marsabit,"Physical Infrastructure, Housing",,EASTERN,61
+LAISAMIS,Urban,26.57%,0%,0%,1.07%,0.74%,39.16%,0.87%,0.07%,31.53%,1494,397,0,0,16,11,585,13,1,471,Marsabit,"Physical Infrastructure, Housing",,EASTERN,62
+MOYALE,Urban,88.62%,0.28%,0.03%,2.2%,7.71%,0.15%,0.01%,0.9%,0.09%,6690,5929,19,2,147,516,10,1,60,6,Marsabit,"Physical Infrastructure, Housing",,EASTERN,63
+ISIOLO,Urban,93.83%,0.93%,0.76%,2.28%,1.81%,0.25%,0.06%,0.03%,0.04%,12699,11916,118,97,289,230,32,8,4,5,Isiolo,"Physical Infrastructure, Housing",,EASTERN,64
+GARBATULLA,Urban,80.01%,1.56%,0%,0.05%,13.76%,4.45%,0.05%,0%,0.14%,2181,1745,34,0,1,300,97,1,0,3,Isiolo,"Physical Infrastructure, Housing",,EASTERN,65
+MERU CENTRAL,Urban,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Meru,"Physical Infrastructure, Housing",,EASTERN,66
+IMENTI NORTH,Urban,90.13%,1.94%,2.66%,4.89%,0.19%,0.05%,0.07%,0.01%,0.07%,21792,19641,422,579,1065,41,11,15,2,16,Meru,"Physical Infrastructure, Housing",,EASTERN,67
+IMENTI SOUTH,Urban,96.83%,0.58%,1.49%,0.84%,0.12%,0%,0.09%,0.02%,0.02%,4292,4156,25,64,36,5,0,4,1,1,Meru,"Physical Infrastructure, Housing",,EASTERN,68
+MERU SOUTH,Urban,94.4%,0.79%,1.52%,2.03%,0.64%,0.06%,0.47%,0.07%,0.02%,12084,11407,96,184,245,77,7,57,8,3,Meru,"Physical Infrastructure, Housing",,EASTERN,69
+MAARA,Urban,97.03%,0.94%,0.6%,1.2%,0.09%,0.01%,0.1%,0.01%,0.01%,8640,8383,81,52,104,8,1,9,1,1,Meru,"Physical Infrastructure, Housing",,EASTERN,70
+IGEMBE,Urban,95.64%,0.28%,0.18%,3.19%,0.44%,0.07%,0.04%,0.07%,0.09%,8160,7804,23,15,260,36,6,3,6,7,Meru,"Physical Infrastructure, Housing",,EASTERN,71
+TIGANIA,Urban,87.21%,0.31%,1.47%,9.85%,1.05%,0.1%,0%,0%,0%,954,832,3,14,94,10,1,0,0,0,Meru,"Physical Infrastructure, Housing",,EASTERN,72
+THARAKA,Urban,84.41%,0.79%,0.09%,3.24%,10.78%,0.23%,0.14%,0.19%,0.14%,2162,1825,17,2,70,233,5,3,4,3,Tharaka Nithi,"Physical Infrastructure, Housing",,EASTERN,73
+EMBU,Urban,92.74%,2.66%,2.47%,1.82%,0.11%,0.07%,0.05%,0.04%,0.04%,23951,22212,637,592,437,27,16,11,9,10,Embu,"Physical Infrastructure, Housing",,EASTERN,74
+MBEERE,Urban,96.89%,0.31%,1.04%,0.62%,1.04%,0%,0%,0.1%,0%,966,936,3,10,6,10,0,0,1,0,Embu,"Physical Infrastructure, Housing",,EASTERN,75
+KITUI,Urban,90.71%,1.46%,0.24%,1.43%,5.77%,0.15%,0.16%,0.04%,0.03%,27522,24966,402,67,394,1589,42,44,11,7,Kitui,"Physical Infrastructure, Housing",,EASTERN,76
+MUTOMO,Urban,87.42%,0%,0%,12.15%,0.21%,0%,0%,0%,0.21%,469,410,0,0,57,1,0,0,0,1,Kitui,"Physical Infrastructure, Housing",,EASTERN,77
+MWINGI,Urban,97.24%,0.56%,1.58%,0.15%,0.04%,0.02%,0.05%,0%,0.36%,5514,5362,31,87,8,2,1,3,0,20,Kitui,"Physical Infrastructure, Housing",,EASTERN,78
+KYUSO,Urban,98%,0.29%,0.29%,0%,1.43%,0%,0%,0%,0%,350,343,1,1,0,5,0,0,0,0,Kitui,"Physical Infrastructure, Housing",,EASTERN,79
+MACHAKOS,Urban,83.83%,3.36%,8.99%,2.43%,0.71%,0.07%,0.2%,0.13%,0.29%,84271,70641,2834,7574,2046,602,55,165,106,248,Machakos,"Physical Infrastructure, Housing",,EASTERN,80
+MWALA,Urban,98.42%,0.38%,0.6%,0%,0.44%,0%,0.16%,0%,0%,1833,1804,7,11,0,8,0,3,0,0,Machakos,"Physical Infrastructure, Housing",,EASTERN,81
+YATTA,Urban,91.63%,0.71%,1.29%,0.57%,5.38%,0.23%,0.15%,0.01%,0.03%,13302,12189,95,171,76,716,30,20,1,4,Machakos,"Physical Infrastructure, Housing",,EASTERN,82
+KANGUNDO,Urban,93.65%,0.73%,0.43%,1.86%,2.95%,0.23%,0.13%,0.01%,0.02%,50804,47577,372,219,943,1499,116,64,6,8,Machakos,"Physical Infrastructure, Housing",,EASTERN,83
+MAKUENI,Urban,85.85%,0.71%,0.36%,1.17%,11.85%,0.03%,0.02%,0%,0.01%,15462,13274,110,55,181,1832,5,3,0,2,Makueni,"Physical Infrastructure, Housing",,EASTERN,84
+MBOONI,Urban,99.07%,0.37%,0%,0.56%,0%,0%,0%,0%,0%,537,532,2,0,3,0,0,0,0,0,Makueni,"Physical Infrastructure, Housing",,EASTERN,85
+KIBWEZI,Urban,95.08%,1.61%,0.69%,1.5%,0.52%,0.41%,0.18%,0.01%,0%,7136,6785,115,49,107,37,29,13,1,0,Makueni,"Physical Infrastructure, Housing",,EASTERN,86
+NZAUI,Urban,96.07%,0.79%,1.55%,0.57%,0.96%,0.03%,0%,0.03%,0%,3538,3399,28,55,20,34,1,0,1,0,Makueni,"Physical Infrastructure, Housing",,EASTERN,87
+MARSABIT,Rural,43.61%,0.52%,0.05%,3.02%,41.24%,1.96%,0.94%,1.3%,7.36%,6521,2844,34,3,197,2689,128,61,85,480,Marsabit,"Physical Infrastructure, Housing",,EASTERN,88
+CHALBI,Rural,7.08%,0.1%,0.04%,0.25%,11.16%,4.59%,3.61%,0.09%,73.08%,15585,1103,15,6,39,1739,716,563,14,11390,Marsabit,"Physical Infrastructure, Housing",,EASTERN,89
+LAISAMIS,Rural,5.5%,0.14%,0.02%,0.15%,9.51%,38.45%,1%,1.11%,44.11%,13248,728,19,3,20,1260,5094,133,147,5844,Marsabit,"Physical Infrastructure, Housing",,EASTERN,90
+MOYALE,Rural,14.17%,0.17%,0.08%,0.65%,77.85%,1.32%,0.06%,1.43%,4.27%,9726,1378,17,8,63,7572,128,6,139,415,Marsabit,"Physical Infrastructure, Housing",,EASTERN,91
+ISIOLO,Rural,30.7%,0.23%,0.03%,1.62%,26.31%,9.55%,5.55%,10.76%,15.26%,9743,2991,22,3,158,2563,930,541,1048,1487,Isiolo,"Physical Infrastructure, Housing",,EASTERN,92
+GARBATULLA,Rural,35.51%,0.51%,0%,0.16%,50.97%,11.43%,0.07%,0.12%,1.21%,6682,2373,34,0,11,3406,764,5,8,81,Isiolo,"Physical Infrastructure, Housing",,EASTERN,93
+MERU CENTRAL,Rural,96.9%,0.59%,0.03%,1.12%,1.2%,0.06%,0.03%,0.04%,0.04%,37041,35892,217,11,414,444,22,12,15,14,Meru,"Physical Infrastructure, Housing",,EASTERN,94
+IMENTI NORTH,Rural,94.27%,0.72%,0.09%,2.93%,1.19%,0.59%,0.08%,0.06%,0.07%,51383,48438,369,45,1505,614,302,42,30,38,Meru,"Physical Infrastructure, Housing",,EASTERN,95
+IMENTI SOUTH,Rural,96.32%,0.73%,0.07%,1.92%,0.73%,0.09%,0.04%,0.08%,0.02%,42735,41161,312,32,821,313,38,15,35,8,Meru,"Physical Infrastructure, Housing",,EASTERN,96
+MERU SOUTH,Rural,86.5%,0.78%,0.01%,1.89%,10.4%,0.26%,0.06%,0.08%,0.01%,21156,18300,166,2,400,2201,55,13,17,2,Meru,"Physical Infrastructure, Housing",,EASTERN,97
+MAARA,Rural,93.29%,0.68%,0.04%,0.65%,5.15%,0.12%,0.03%,0.03%,0.02%,19492,18184,132,7,127,1004,24,6,5,3,Meru,"Physical Infrastructure, Housing",,EASTERN,98
+IGEMBE,Rural,91.43%,0.69%,0.08%,4.16%,2.78%,0.32%,0.2%,0.23%,0.12%,91122,83316,628,69,3787,2532,296,180,208,106,Meru,"Physical Infrastructure, Housing",,EASTERN,99
+TIGANIA,Rural,88.91%,0.85%,0.03%,3.22%,5.9%,0.6%,0.25%,0.08%,0.17%,61654,54817,524,18,1986,3635,370,153,47,104,Meru,"Physical Infrastructure, Housing",,EASTERN,100
+THARAKA,Rural,77.9%,0.56%,0.03%,3.11%,17.98%,0.24%,0.05%,0.02%,0.1%,25227,19652,142,8,785,4536,60,12,6,26,Tharaka Nithi,"Physical Infrastructure, Housing",,EASTERN,101
+EMBU,Rural,96.09%,0.74%,0.05%,2.39%,0.39%,0.07%,0.19%,0.06%,0.02%,55708,53531,410,26,1334,218,39,108,32,10,Embu,"Physical Infrastructure, Housing",,EASTERN,102
+MBEERE,Rural,88.09%,0.74%,0.16%,2.6%,8.05%,0.23%,0.05%,0.02%,0.07%,50573,44551,374,82,1313,4070,114,26,9,34,Embu,"Physical Infrastructure, Housing",,EASTERN,103
+KITUI,Rural,78.34%,1.29%,0.09%,2.19%,17.43%,0.33%,0.2%,0.08%,0.05%,67237,52676,865,58,1471,11719,224,137,54,33,Kitui,"Physical Infrastructure, Housing",,EASTERN,104
+MUTOMO,Rural,64.3%,0.88%,0.1%,1.15%,31.94%,1.21%,0.05%,0.07%,0.29%,32405,20836,285,33,373,10351,392,17,24,94,Kitui,"Physical Infrastructure, Housing",,EASTERN,105
+MWINGI,Rural,82.68%,1.03%,0.08%,1.44%,14.38%,0.09%,0.11%,0.04%,0.17%,45425,37556,469,36,654,6531,39,48,17,75,Kitui,"Physical Infrastructure, Housing",,EASTERN,106
+KYUSO,Rural,55.48%,0.77%,0.06%,1.62%,41.53%,0.21%,0.14%,0.08%,0.13%,26490,14696,204,16,428,11000,55,36,21,34,Kitui,"Physical Infrastructure, Housing",,EASTERN,107
+MACHAKOS,Rural,94.82%,0.96%,0.18%,1.79%,2.07%,0.06%,0.09%,0.02%,0.02%,33555,31817,321,60,600,694,20,31,6,6,Machakos,"Physical Infrastructure, Housing",,EASTERN,108
+MWALA,Rural,92.84%,0.85%,0.06%,0.42%,5.59%,0.12%,0.05%,0.01%,0.04%,33709,31297,288,21,140,1886,41,16,5,15,Machakos,"Physical Infrastructure, Housing",,EASTERN,109
+YATTA,Rural,84.79%,0.77%,0.02%,0.66%,13.6%,0.11%,0.03%,0.02%,0.01%,46868,39740,361,10,309,6372,51,14,8,3,Machakos,"Physical Infrastructure, Housing",,EASTERN,110
+KANGUNDO,Rural,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Machakos,"Physical Infrastructure, Housing",,EASTERN,111
+MAKUENI,Rural,86.53%,0.78%,0.06%,0.9%,11.53%,0.05%,0.08%,0.04%,0.02%,36499,31583,286,21,329,4210,20,31,13,6,Makueni,"Physical Infrastructure, Housing",,EASTERN,112
+MBOONI,Rural,91.7%,0.64%,0.02%,1.43%,5.95%,0.15%,0.05%,0.02%,0.04%,36713,33667,234,7,524,2184,55,20,7,15,Makueni,"Physical Infrastructure, Housing",,EASTERN,113
+KIBWEZI,Rural,83.68%,0.9%,0.1%,1.49%,13.07%,0.61%,0.04%,0.05%,0.06%,45794,38319,413,44,683,5987,278,17,24,29,Makueni,"Physical Infrastructure, Housing",,EASTERN,114
+NZAUI,Rural,83.04%,0.58%,0.11%,0.86%,15.13%,0.15%,0.08%,0.02%,0.04%,40601,33716,237,45,348,6141,59,32,7,16,Makueni,"Physical Infrastructure, Housing",,EASTERN,115
+NAIROBI WEST,Urban,79.13%,10.3%,6.48%,3.21%,0.03%,0.1%,0.48%,0.06%,0.21%,212165,167894,21855,13741,6820,54,212,1014,128,447,Nairobi,"Physical Infrastructure, Housing",,NAIROBI,116
+NAIROBI EAST,Urban,63.58%,8.1%,24%,3.58%,0.02%,0.06%,0.48%,0.02%,0.17%,369265,234774,29909,88619,13229,58,233,1758,62,623,Nairobi,"Physical Infrastructure, Housing",,NAIROBI,117
+NAIROBI NORTH,Urban,60.88%,6.41%,29.24%,2.77%,0.02%,0.06%,0.46%,0.03%,0.12%,326398,198719,20910,95455,9057,52,205,1513,82,405,Nairobi,"Physical Infrastructure, Housing",,NAIROBI,118
+WESTLANDS,Urban,53.54%,30.47%,13.72%,1.8%,0.03%,0.08%,0.12%,0.01%,0.22%,75287,40310,22943,10333,1357,21,61,88,11,163,Nairobi,"Physical Infrastructure, Housing",,NAIROBI,119
+NAIROBI WEST,Rural,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Nairobi,"Physical Infrastructure, Housing",,NAIROBI,120
+NAIROBI EAST,Rural,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Nairobi,"Physical Infrastructure, Housing",,NAIROBI,121
+NAIROBI NORTH,Rural,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Nairobi,"Physical Infrastructure, Housing",,NAIROBI,122
+WESTLANDS,Rural,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Nairobi,"Physical Infrastructure, Housing",,NAIROBI,123
+GARISSA,Urban,75.94%,1.6%,0.35%,3.59%,11.66%,5.5%,0.23%,0.86%,0.27%,20635,15671,331,72,740,2407,1134,47,177,56,Garissa,"Physical Infrastructure, Housing",,NORTH EASTERN,124
+LAGDERA,Urban,60.63%,1.84%,0.05%,1.51%,30.88%,3.41%,0.59%,1.03%,0.05%,1849,1121,34,1,28,571,63,11,19,1,Garissa,"Physical Infrastructure, Housing",,NORTH EASTERN,125
+FAFI,Urban,78.22%,0%,0%,0.61%,20.86%,0%,0%,0%,0.31%,326,255,0,0,2,68,0,0,0,1,Garissa,"Physical Infrastructure, Housing",,NORTH EASTERN,126
+IJARA,Urban,69.5%,0.48%,0.12%,2.74%,25.62%,1.33%,0.16%,0%,0.04%,2479,1723,12,3,68,635,33,4,0,1,Garissa,"Physical Infrastructure, Housing",,NORTH EASTERN,127
+WAJIR SOUTH,Urban,62.14%,0.2%,0.2%,0.75%,34.4%,0.27%,0.14%,1.9%,0%,1474,916,3,3,11,507,4,2,28,0,Wajir,"Physical Infrastructure, Housing",,NORTH EASTERN,128
+WAJIR EAST,Urban,32.13%,0.74%,0.54%,0.68%,65.15%,0.54%,0.13%,0.01%,0.08%,12674,4072,94,69,86,8257,69,16,1,10,Wajir,"Physical Infrastructure, Housing",,NORTH EASTERN,129
+WAJIR WEST,Urban,40.21%,0.15%,0%,1.21%,58.27%,0%,0%,0.15%,0%,659,265,1,0,8,384,0,0,1,0,Wajir,"Physical Infrastructure, Housing",,NORTH EASTERN,130
+MANDERA CENTRAL,Urban,33.21%,0.63%,0.57%,1.15%,49.42%,14.48%,0.18%,0.17%,0.18%,8193,2721,52,47,94,4049,1186,15,14,15,Mandera,"Physical Infrastructure, Housing",,NORTH EASTERN,131
+MANDERA EAST,Urban,43.25%,0.34%,0.38%,1.01%,31.69%,21.88%,0.21%,0.38%,0.86%,12579,5441,43,48,127,3986,2752,26,48,108,Mandera,"Physical Infrastructure, Housing",,NORTH EASTERN,132
+MANDERA WEST,Urban,61.36%,0.28%,0.2%,0.24%,36.82%,0.55%,0.08%,0.44%,0.04%,2526,1550,7,5,6,930,14,2,11,1,Mandera,"Physical Infrastructure, Housing",,NORTH EASTERN,133
+GARISSA,Rural,3.49%,0.71%,0.1%,0.32%,80.28%,14.8%,0.09%,0.11%,0.11%,11189,391,79,11,36,8982,1656,10,12,12,Garissa,"Physical Infrastructure, Housing",,NORTH EASTERN,134
+LAGDERA,Rural,16.57%,0.33%,0.26%,2.7%,72.66%,3.87%,1.17%,1.42%,1.02%,35521,5886,118,92,959,25810,1373,416,505,362,Garissa,"Physical Infrastructure, Housing",,NORTH EASTERN,135
+FAFI,Rural,17.81%,0.85%,0.24%,3.55%,72.13%,1.63%,1.32%,0.32%,2.15%,15570,2773,132,37,553,11230,254,206,50,335,Garissa,"Physical Infrastructure, Housing",,NORTH EASTERN,136
+IJARA,Rural,8.87%,0.36%,0.04%,0.38%,89.37%,0.22%,0.07%,0.06%,0.64%,10701,949,38,4,41,9564,24,7,6,68,Garissa,"Physical Infrastructure, Housing",,NORTH EASTERN,137
+WAJIR SOUTH,Rural,6.82%,0.35%,0.02%,0.78%,91%,0.25%,0.09%,0.36%,0.34%,17029,1162,59,3,133,15496,42,15,61,58,Wajir,"Physical Infrastructure, Housing",,NORTH EASTERN,138
+WAJIR NORTH,Rural,12.71%,0.46%,0.03%,0.29%,84.36%,1.42%,0.09%,0.27%,0.38%,17567,2232,80,6,51,14819,250,16,47,66,Wajir,"Physical Infrastructure, Housing",,NORTH EASTERN,139
+WAJIR EAST,Rural,0.89%,0.21%,0%,0.1%,98.4%,0.21%,0.09%,0.03%,0.08%,18412,164,38,0,19,18117,38,17,5,14,Wajir,"Physical Infrastructure, Housing",,NORTH EASTERN,140
+WAJIR WEST,Rural,2.03%,0.21%,0.06%,0.44%,90.5%,6.31%,0.22%,0.04%,0.19%,20678,419,44,12,91,18713,1305,45,9,40,Wajir,"Physical Infrastructure, Housing",,NORTH EASTERN,141
+MANDERA CENTRAL,Rural,4.35%,0.92%,0.03%,0.2%,77.66%,16%,0.07%,0.19%,0.59%,42010,1828,385,13,83,32626,6720,28,81,246,Mandera,"Physical Infrastructure, Housing",,NORTH EASTERN,142
+MANDERA EAST,Rural,0.6%,0.14%,0.07%,0.07%,28.96%,67.67%,0.08%,0.04%,2.37%,25890,156,35,19,17,7499,17519,21,10,614,Mandera,"Physical Infrastructure, Housing",,NORTH EASTERN,143
+MANDERA WEST,Rural,7.81%,0.28%,0.03%,0.6%,82.33%,8.45%,0.13%,0.29%,0.07%,34273,2676,97,10,204,28217,2897,46,101,25,Mandera,"Physical Infrastructure, Housing",,NORTH EASTERN,144
+SIAYA,Urban,87.9%,1.02%,0.58%,2.73%,6.8%,0.04%,0.73%,0.15%,0.05%,10216,8980,104,59,279,695,4,75,15,5,Siaya,"Physical Infrastructure, Housing",,NYANZA,145
+BONDO,Urban,88.49%,1.06%,0.11%,0.24%,9.72%,0.22%,0.12%,0.02%,0.02%,11169,9884,118,12,27,1086,25,13,2,2,Siaya,"Physical Infrastructure, Housing",,NYANZA,146
+RARIEDA,Urban,89.94%,0.58%,0.12%,0.12%,9.01%,0%,0%,0.23%,0%,855,769,5,1,1,77,0,0,2,0,Siaya,"Physical Infrastructure, Housing",,NYANZA,147
+KISUMU EAST,Urban,88.34%,3.01%,2.33%,3.75%,2.2%,0.05%,0.2%,0.06%,0.08%,96923,85618,2917,2259,3630,2129,45,189,60,76,Kisumu,"Physical Infrastructure, Housing",,NYANZA,148
+KISUMU WEST,Urban,90.17%,3.61%,1.16%,4.41%,0.36%,0%,0.07%,0.07%,0.14%,1384,1248,50,16,61,5,0,1,1,2,Kisumu,"Physical Infrastructure, Housing",,NYANZA,149
+NYANDO,Urban,85.27%,1.26%,0.15%,3.1%,9.7%,0.07%,0.39%,0.03%,0.02%,25769,21974,324,39,798,2500,19,101,8,6,Kisumu,"Physical Infrastructure, Housing",,NYANZA,150
+HOMABAY,Urban,92.54%,1.28%,0.12%,1.3%,4.57%,0.07%,0.08%,0.02%,0.02%,13796,12767,177,16,180,630,9,11,3,3,Homa Bay,"Physical Infrastructure, Housing",,NYANZA,151
+SUBA,Urban,95.65%,0.59%,0.12%,3.05%,0.45%,0.04%,0.06%,0.04%,0%,4915,4701,29,6,150,22,2,3,2,0,Homa Bay,"Physical Infrastructure, Housing",,NYANZA,152
+RACHUONYO,Urban,92.25%,0.51%,0.3%,3.93%,2.75%,0.07%,0.04%,0.13%,0.01%,13465,12421,69,40,529,370,10,6,18,2,Homa Bay,"Physical Infrastructure, Housing",,NYANZA,153
+MIGORI,Urban,92.98%,0.93%,0.46%,2.15%,3.18%,0.12%,0.06%,0.1%,0.01%,18545,17244,172,85,399,590,23,11,19,2,Migori,"Physical Infrastructure, Housing",,NYANZA,154
+RONGO,Urban,91.37%,0.65%,0.1%,2.46%,5.15%,0.09%,0.07%,0.08%,0.02%,40964,37430,266,42,1008,2110,37,30,31,10,Migori,"Physical Infrastructure, Housing",,NYANZA,155
+KURIA WEST,Urban,90.88%,0.58%,0.74%,3.27%,4.2%,0%,0.19%,0.12%,0.01%,6734,6120,39,50,220,283,0,13,8,1,Migori,"Physical Infrastructure, Housing",,NYANZA,156
+KURIA EAST,Urban,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Migori,"Physical Infrastructure, Housing",,NYANZA,157
+KISII CENTRAL,Urban,88.02%,1.22%,6.15%,2.16%,1.36%,0.12%,0.74%,0.11%,0.12%,20581,18115,252,1266,444,279,25,152,23,25,Kisii,"Physical Infrastructure, Housing",,NYANZA,158
+KISII SOUTH,Urban,89.88%,0.62%,0.74%,3.18%,5.18%,0.23%,0.11%,0.06%,0.01%,12665,11383,78,94,403,656,29,14,7,1,Kisii,"Physical Infrastructure, Housing",,NYANZA,159
+MASABA,Urban,82.18%,0.57%,0.31%,5.08%,11.7%,0.09%,0.04%,0.05%,0%,19665,16161,112,60,998,2300,17,7,10,0,Kisii,"Physical Infrastructure, Housing",,NYANZA,160
+GUCHA,Urban,88.48%,0.26%,1.07%,5.36%,4.7%,0.03%,0.1%,0.02%,0%,6197,5483,16,66,332,291,2,6,1,0,Kisii,"Physical Infrastructure, Housing",,NYANZA,161
+GUCHA SOUTH,Urban,90.65%,0.43%,0.71%,1.42%,6.25%,0.43%,0.04%,0.07%,0%,2814,2551,12,20,40,176,12,1,2,0,Kisii,"Physical Infrastructure, Housing",,NYANZA,162
+NYAMIRA,Urban,93.07%,0.67%,0.89%,2.12%,3.01%,0.07%,0.04%,0.12%,0.01%,13865,12904,93,123,294,417,10,6,16,2,Nyamira,"Physical Infrastructure, Housing",,NYANZA,163
+MANGA,Urban,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Nyamira,"Physical Infrastructure, Housing",,NYANZA,164
+BORABU,Urban,94.98%,1.3%,1.82%,1.43%,0.07%,0%,0.39%,0%,0%,1535,1458,20,28,22,1,0,6,0,0,Nyamira,"Physical Infrastructure, Housing",,NYANZA,165
+SIAYA,Rural,58.48%,0.57%,0.07%,0.83%,39.88%,0.11%,0.02%,0.02%,0.02%,120280,70340,680,83,999,47962,132,30,29,25,Siaya,"Physical Infrastructure, Housing",,NYANZA,166
+BONDO,Rural,74.16%,0.53%,0.1%,1.46%,23.37%,0.06%,0.24%,0.05%,0.03%,25967,19256,138,27,378,6069,16,62,12,9,Siaya,"Physical Infrastructure, Housing",,NYANZA,167
+RARIEDA,Rural,71.93%,0.59%,0.05%,0.59%,26.21%,0.08%,0.47%,0.03%,0.05%,30177,21705,179,16,177,7910,23,143,9,15,Siaya,"Physical Infrastructure, Housing",,NYANZA,168
+KISUMU EAST,Rural,86.25%,0.55%,0.12%,1.41%,11.28%,0.07%,0.23%,0.02%,0.07%,18026,15548,99,21,254,2033,12,42,4,13,Kisumu,"Physical Infrastructure, Housing",,NYANZA,169
+KISUMU WEST,Rural,76.95%,0.46%,0.04%,1.07%,21.21%,0.15%,0.03%,0.03%,0.07%,31607,24322,144,12,338,6705,47,8,10,21,Kisumu,"Physical Infrastructure, Housing",,NYANZA,170
+NYANDO,Rural,83.27%,0.59%,0.04%,1.9%,13.62%,0.21%,0.28%,0.05%,0.05%,52428,43656,307,23,994,7143,108,146,25,26,Kisumu,"Physical Infrastructure, Housing",,NYANZA,171
+HOMABAY,Rural,74.06%,0.46%,0.04%,1.49%,23.43%,0.18%,0.28%,0.03%,0.03%,65629,48604,304,24,976,15380,118,182,22,19,Homa Bay,"Physical Infrastructure, Housing",,NYANZA,172
+SUBA,Rural,75.19%,0.45%,0.04%,1.31%,22.36%,0.16%,0.43%,0.03%,0.01%,40390,30371,181,18,528,9033,65,175,13,6,Homa Bay,"Physical Infrastructure, Housing",,NYANZA,173
+RACHUONYO,Rural,89.34%,0.57%,0.04%,1.36%,8.46%,0.08%,0.1%,0.03%,0.02%,67913,60673,384,27,926,5746,55,69,20,13,Homa Bay,"Physical Infrastructure, Housing",,NYANZA,174
+MIGORI,Rural,63.38%,0.58%,0.03%,2.05%,33.65%,0.15%,0.11%,0.02%,0.03%,51904,32895,303,14,1064,17465,79,58,12,14,Migori,"Physical Infrastructure, Housing",,NYANZA,175
+RONGO,Rural,82.1%,0.57%,0.03%,2.31%,14.8%,0.08%,0.01%,0.02%,0.06%,26875,22065,154,9,622,3978,22,3,6,16,Migori,"Physical Infrastructure, Housing",,NYANZA,176
+KURIA WEST,Rural,64.02%,0.4%,0.02%,2.6%,32.68%,0.04%,0.2%,0.03%,0.02%,21496,13762,85,5,559,7024,8,42,7,4,Migori,"Physical Infrastructure, Housing",,NYANZA,177
+KURIA EAST,Rural,52.16%,0.59%,0.04%,3.49%,43.58%,0.04%,0.06%,0.02%,0.02%,13452,7016,79,6,469,5862,6,8,3,3,Migori,"Physical Infrastructure, Housing",,NYANZA,178
+KISII CENTRAL,Rural,87.03%,0.56%,0.11%,2.82%,8.92%,0.19%,0.3%,0.06%,0.01%,60728,52854,339,64,1715,5416,117,181,38,4,Kisii,"Physical Infrastructure, Housing",,NYANZA,179
+KISII SOUTH,Rural,85.18%,0.37%,0.04%,2.03%,12.22%,0.12%,0.02%,0%,0.02%,11328,9649,42,5,230,1384,14,2,0,2,Kisii,"Physical Infrastructure, Housing",,NYANZA,180
+MASABA,Rural,82.39%,0.63%,0.03%,2.99%,13.51%,0.08%,0.33%,0.03%,0.01%,31116,25635,197,9,930,4205,26,103,9,2,Kisii,"Physical Infrastructure, Housing",,NYANZA,181
+GUCHA,Rural,80.31%,0.54%,0.08%,3.25%,15.13%,0.23%,0.41%,0.03%,0.01%,75331,60501,406,61,2450,11394,176,311,21,11,Kisii,"Physical Infrastructure, Housing",,NYANZA,182
+GUCHA SOUTH,Rural,79.66%,0.52%,0.08%,3.64%,15.63%,0.09%,0.33%,0.04%,0.01%,29029,23124,150,24,1056,4537,25,96,13,4,Kisii,"Physical Infrastructure, Housing",,NYANZA,183
+NYAMIRA,Rural,91.51%,0.51%,0.07%,1.45%,6.33%,0.09%,0.02%,0.01%,0.01%,56023,51264,288,42,814,3545,48,10,8,4,Nyamira,"Physical Infrastructure, Housing",,NYANZA,184
+MANGA,Rural,88.89%,0.73%,0.06%,1.65%,8.22%,0.4%,0.03%,0.01%,0.02%,19270,17130,141,11,317,1584,77,5,2,3,Nyamira,"Physical Infrastructure, Housing",,NYANZA,185
+BORABU,Rural,88.59%,2.34%,0.09%,2.25%,6.6%,0.08%,0.02%,0.03%,0.01%,15372,13618,359,14,346,1014,13,3,4,1,Nyamira,"Physical Infrastructure, Housing",,NYANZA,186
+TURKANA CENTRAL,Urban,51.35%,0.32%,0.11%,3.24%,4.07%,33.48%,0.06%,0.15%,7.22%,9808,5036,31,11,318,399,3284,6,15,708,Turkana,"Physical Infrastructure, Housing",,RIFT VALLEY,187
+TURKANA NORTH,Urban,43.88%,0.52%,0.03%,3.3%,21.97%,20.41%,3.39%,0.15%,6.35%,13211,5797,69,4,436,2902,2696,448,20,839,Turkana,"Physical Infrastructure, Housing",,RIFT VALLEY,188
+TURKANA SOUTH,Urban,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Turkana,"Physical Infrastructure, Housing",,RIFT VALLEY,189
+WEST POKOT,Urban,78.89%,1.84%,0.07%,1.09%,17.74%,0.11%,0.1%,0.08%,0.08%,9053,7142,167,6,99,1606,10,9,7,7,West Pokot,"Physical Infrastructure, Housing",,RIFT VALLEY,190
+POKOT NORTH,Urban,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,West Pokot,"Physical Infrastructure, Housing",,RIFT VALLEY,191
+POKOT CENTRAL,Urban,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,West Pokot,"Physical Infrastructure, Housing",,RIFT VALLEY,192
+SAMBURU CENTRAL,Urban,91.75%,0.44%,0%,2.85%,1.66%,0.27%,0.84%,2.06%,0.13%,4520,4147,20,0,129,75,12,38,93,6,Samburu,"Physical Infrastructure, Housing",,RIFT VALLEY,193
+SAMBURU EAST,Urban,61.07%,0.18%,0.11%,0.93%,1.87%,6.96%,4.38%,8.97%,15.54%,2787,1702,5,3,26,52,194,122,250,433,Samburu,"Physical Infrastructure, Housing",,RIFT VALLEY,194
+SAMBURU NORTH,Urban,46.18%,0.25%,0.06%,0.31%,9.67%,6.22%,7.88%,21.74%,7.7%,1624,750,4,1,5,157,101,128,353,125,Samburu,"Physical Infrastructure, Housing",,RIFT VALLEY,195
+TRANS NZOIA WEST,Urban,91.36%,2.09%,0.6%,4.43%,1.07%,0.04%,0.07%,0.09%,0.25%,36906,33718,770,221,1635,394,15,25,34,94,Trans Nzoia,"Physical Infrastructure, Housing",,RIFT VALLEY,196
+TRANS NZOIA EAST,Urban,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Trans Nzoia,"Physical Infrastructure, Housing",,RIFT VALLEY,197
+KWANZA,Urban,91.5%,0.39%,0%,0.12%,7.8%,0.05%,0.1%,0.05%,0%,4116,3766,16,0,5,321,2,4,2,0,Trans Nzoia,"Physical Infrastructure, Housing",,RIFT VALLEY,198
+BARINGO,Urban,87.66%,2.61%,0.31%,5.05%,4.17%,0.05%,0.09%,0.03%,0.03%,7626,6685,199,24,385,318,4,7,2,2,Baringo,"Physical Infrastructure, Housing",,RIFT VALLEY,199
+BARINGO NORTH,Urban,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Baringo,"Physical Infrastructure, Housing",,RIFT VALLEY,200
+EAST POKOT,Urban,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Baringo,"Physical Infrastructure, Housing",,RIFT VALLEY,201
+KOIBATEK,Urban,91.49%,1.98%,0.76%,4.27%,0.62%,0.06%,0.39%,0.12%,0.31%,8041,7357,159,61,343,50,5,31,10,25,Baringo,"Physical Infrastructure, Housing",,RIFT VALLEY,202
+ELDORET WEST,Urban,89.49%,3.72%,1.54%,4.39%,0.28%,0.02%,0.37%,0.07%,0.11%,41548,37180,1547,641,1825,117,10,154,28,46,Uasin Gishu,"Physical Infrastructure, Housing",,RIFT VALLEY,203
+ELDORET EAST,Urban,80.76%,12.86%,0.86%,4.13%,0.38%,0.1%,0.55%,0.04%,0.33%,20206,16319,2599,173,834,76,20,111,8,66,Uasin Gishu,"Physical Infrastructure, Housing",,RIFT VALLEY,204
+WARENG,Urban,90.39%,3.55%,0.7%,2.06%,0.91%,0.02%,0.04%,0.08%,2.25%,34087,30811,1210,237,702,311,7,14,28,767,Uasin Gishu,"Physical Infrastructure, Housing",,RIFT VALLEY,205
+MARAKWET,Urban,96.27%,0.26%,0.32%,0.21%,2.1%,0%,0.84%,0%,0%,1903,1832,5,6,4,40,0,16,0,0,Elgeyo Marakwet,"Physical Infrastructure, Housing",,RIFT VALLEY,206
+KEIYO,Urban,74.59%,1.96%,0.34%,1.08%,21.84%,0.11%,0.06%,0.01%,0%,9688,7226,190,33,105,2116,11,6,1,0,Elgeyo Marakwet,"Physical Infrastructure, Housing",,RIFT VALLEY,207
+NANDI NORTH,Urban,93.85%,0.21%,0.1%,2.77%,2.26%,0.1%,0.62%,0%,0.1%,975,915,2,1,27,22,1,6,0,1,Nandi,"Physical Infrastructure, Housing",,RIFT VALLEY,208
+NANDI CENTRAL,Urban,93.64%,1.72%,0.2%,1.3%,2.67%,0.04%,0.33%,0.04%,0.05%,19729,18475,339,40,257,527,8,65,8,10,Nandi,"Physical Infrastructure, Housing",,RIFT VALLEY,209
+NANDI EAST,Urban,97.88%,1.2%,0.29%,0.15%,0.18%,0.29%,0%,0%,0%,2742,2684,33,8,4,5,8,0,0,0,Nandi,"Physical Infrastructure, Housing",,RIFT VALLEY,210
+NANDI SOUTH,Urban,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Nandi,"Physical Infrastructure, Housing",,RIFT VALLEY,211
+TINDERET,Urban,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Nandi,"Physical Infrastructure, Housing",,RIFT VALLEY,212
+LAIKIPIA NORTH,Urban,71.85%,0.27%,0%,20.38%,6.17%,1.07%,0%,0%,0.27%,373,268,1,0,76,23,4,0,0,1,Laikipia,"Physical Infrastructure, Housing",,RIFT VALLEY,213
+LAIKIPIA EAST,Urban,80.88%,4.78%,6.3%,3.21%,0.47%,0.18%,4.13%,0.01%,0.04%,14155,11448,677,892,455,66,25,585,1,6,Laikipia,"Physical Infrastructure, Housing",,RIFT VALLEY,214
+LAIKIPIA WEST,Urban,86.45%,2.36%,3.52%,4.22%,3.12%,0.13%,0.1%,0.09%,0.01%,14731,12735,348,519,621,460,19,14,13,2,Laikipia,"Physical Infrastructure, Housing",,RIFT VALLEY,215
+NAKURU,Urban,86.47%,5.1%,2.49%,5.09%,0.13%,0.04%,0.59%,0.06%,0.03%,96079,83080,4903,2390,4895,128,38,563,55,27,Nakuru,"Physical Infrastructure, Housing",,RIFT VALLEY,216
+NAKURU NORTH,Urban,96.44%,1.34%,0.39%,1.46%,0.09%,0.06%,0.03%,0.18%,0.02%,19273,18586,258,75,282,17,11,6,34,4,Nakuru,"Physical Infrastructure, Housing",,RIFT VALLEY,217
+NAIVASHA,Urban,92.5%,1.92%,1.23%,3.49%,0.44%,0.04%,0.2%,0.05%,0.13%,68527,63386,1314,842,2394,302,30,136,35,88,Nakuru,"Physical Infrastructure, Housing",,RIFT VALLEY,218
+MOLO,Urban,94.04%,1.1%,0.49%,2.51%,0.72%,0.03%,0.34%,0.02%,0.74%,29165,27427,320,144,731,210,10,100,6,217,Nakuru,"Physical Infrastructure, Housing",,RIFT VALLEY,219
+NAROK NORTH,Urban,95.67%,0.72%,0.77%,1.9%,0.04%,0.07%,0.56%,0.19%,0.09%,12897,12339,93,99,245,5,9,72,24,11,Narok,"Physical Infrastructure, Housing",,RIFT VALLEY,220
+NAROK SOUTH,Urban,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Narok,"Physical Infrastructure, Housing",,RIFT VALLEY,221
+TRANS MARA,Urban,87.35%,0.7%,0.14%,3.94%,6.15%,0.47%,1.15%,0.08%,0.03%,3580,3127,25,5,141,220,17,41,3,1,Narok,"Physical Infrastructure, Housing",,RIFT VALLEY,222
+KAJIADO CENTRAL,Urban,91.07%,1.66%,0.3%,3.87%,0.43%,0.08%,0.21%,2.18%,0.21%,9047,8239,150,27,350,39,7,19,197,19,Kajiado,"Physical Infrastructure, Housing",,RIFT VALLEY,223
+LOITOKITOK,Urban,91.09%,1.24%,0.56%,4.84%,0.99%,0.15%,0.12%,0%,1.02%,4129,3761,51,23,200,41,6,5,0,42,Kajiado,"Physical Infrastructure, Housing",,RIFT VALLEY,224
+KERICHO,Urban,91.37%,1.44%,0.96%,1.96%,3.38%,0.07%,0.56%,0.04%,0.21%,32068,29300,463,309,628,1085,22,181,13,67,Kericho,"Physical Infrastructure, Housing",,RIFT VALLEY,225
+KIPKELION,Urban,85.57%,0.67%,0.06%,0.5%,12.63%,0.17%,0.23%,0%,0.16%,18625,15938,125,12,93,2353,31,43,0,30,Kericho,"Physical Infrastructure, Housing",,RIFT VALLEY,226
+BURET,Urban,95.29%,0.69%,0.16%,1.52%,2.1%,0.16%,0.02%,0.04%,0.02%,5515,5255,38,9,84,116,9,1,2,1,Bomet,"Physical Infrastructure, Housing",,RIFT VALLEY,227
+SOTIK,Urban,94.87%,0.26%,2.52%,0.91%,1.26%,0.04%,0.04%,0.09%,0%,2299,2181,6,58,21,29,1,1,2,0,Bomet,"Physical Infrastructure, Housing",,RIFT VALLEY,228
+BOMET,Urban,74.4%,0.68%,0.7%,1.19%,22.36%,0.34%,0.07%,0.23%,0.04%,19238,14313,131,134,228,4301,66,14,44,7,Bomet,"Physical Infrastructure, Housing",,RIFT VALLEY,229
+KAJIADO NORTH,Urban,81.63%,6.24%,7.21%,4.02%,0.12%,0.07%,0.29%,0.3%,0.12%,73655,60126,4595,5310,2958,88,55,211,223,89,Kajiado,"Physical Infrastructure, Housing",,RIFT VALLEY,230
+TURKANA CENTRAL,Rural,2.77%,0.2%,0.03%,0.38%,13.56%,60.56%,0.34%,0.07%,22.1%,31129,861,61,9,117,4221,18853,105,22,6880,Turkana,"Physical Infrastructure, Housing",,RIFT VALLEY,231
+TURKANA NORTH,Rural,3.49%,0.46%,0.01%,0.67%,64.96%,13.42%,2.9%,0.13%,13.96%,40350,1408,186,5,272,26211,5414,1169,51,5634,Turkana,"Physical Infrastructure, Housing",,RIFT VALLEY,232
+TURKANA SOUTH,Rural,13.44%,0.38%,0.08%,1.07%,30.37%,46.97%,0.18%,0.31%,7.18%,28437,3823,109,24,304,8637,13358,52,87,2043,Turkana,"Physical Infrastructure, Housing",,RIFT VALLEY,233
+WEST POKOT,Rural,31.25%,0.43%,0.03%,1.26%,66.15%,0.22%,0.05%,0.57%,0.04%,26187,8183,112,7,331,17324,57,14,149,10,West Pokot,"Physical Infrastructure, Housing",,RIFT VALLEY,234
+POKOT NORTH,Rural,7.41%,0.39%,0.04%,0.41%,70.33%,0.23%,0.09%,20.77%,0.34%,25961,1924,102,10,106,18258,59,23,5391,88,West Pokot,"Physical Infrastructure, Housing",,RIFT VALLEY,235
+POKOT CENTRAL,Rural,19.07%,0.41%,0.03%,0.62%,78.79%,0.35%,0.02%,0.59%,0.12%,32548,6207,134,9,203,25645,113,7,192,38,West Pokot,"Physical Infrastructure, Housing",,RIFT VALLEY,236
+SAMBURU CENTRAL,Rural,16.97%,0.6%,0.11%,0.96%,11.47%,7.31%,0.11%,56.62%,5.85%,18296,3104,109,20,175,2099,1337,21,10360,1071,Samburu,"Physical Infrastructure, Housing",,RIFT VALLEY,237
+SAMBURU EAST,Rural,4.75%,1.99%,0.05%,0.73%,8.72%,18.46%,5.04%,47.62%,12.63%,9955,473,198,5,73,868,1838,502,4741,1257,Samburu,"Physical Infrastructure, Housing",,RIFT VALLEY,238
+SAMBURU NORTH,Rural,5.68%,0.13%,0.03%,0.31%,19.96%,20.84%,3.39%,21.58%,28.07%,10049,571,13,3,31,2006,2094,341,2169,2821,Samburu,"Physical Infrastructure, Housing",,RIFT VALLEY,239
+TRANS NZOIA WEST,Rural,81.66%,0.84%,0.07%,2.93%,13.24%,0.13%,0.07%,0.02%,1.05%,47029,38403,394,31,1378,6225,61,33,10,494,Trans Nzoia,"Physical Infrastructure, Housing",,RIFT VALLEY,240
+TRANS NZOIA EAST,Rural,87.44%,0.55%,0.05%,1.88%,9.49%,0.11%,0.3%,0.05%,0.13%,39068,34163,214,20,735,3707,44,116,18,51,Trans Nzoia,"Physical Infrastructure, Housing",,RIFT VALLEY,241
+KWANZA,Rural,66.69%,0.77%,0.03%,2.55%,29.01%,0.37%,0.05%,0.04%,0.48%,42513,28354,327,14,1083,12332,158,21,19,205,Trans Nzoia,"Physical Infrastructure, Housing",,RIFT VALLEY,242
+BARINGO,Rural,66.62%,0.9%,0.06%,0.98%,31%,0.14%,0.14%,0.05%,0.11%,27301,18189,247,16,268,8462,37,39,14,29,Baringo,"Physical Infrastructure, Housing",,RIFT VALLEY,243
+BARINGO NORTH,Rural,53.22%,0.91%,0.05%,1.29%,44.18%,0.12%,0.13%,0.06%,0.06%,19730,10500,179,9,254,8716,23,26,11,12,Baringo,"Physical Infrastructure, Housing",,RIFT VALLEY,244
+EAST POKOT,Rural,7.67%,0.41%,0.04%,0.2%,90.87%,0.47%,0.06%,0.11%,0.18%,21289,1632,88,8,43,19345,99,13,23,38,Baringo,"Physical Infrastructure, Housing",,RIFT VALLEY,245
+KOIBATEK,Rural,74.44%,0.9%,0.03%,1.15%,22.58%,0.21%,0.06%,0.03%,0.61%,26439,19681,237,9,304,5969,55,16,8,160,Baringo,"Physical Infrastructure, Housing",,RIFT VALLEY,246
+ELDORET WEST,Rural,82.07%,0.93%,0.14%,1.1%,15.39%,0.06%,0.16%,0.08%,0.07%,47150,38698,439,68,518,7256,27,76,37,31,Uasin Gishu,"Physical Infrastructure, Housing",,RIFT VALLEY,247
+ELDORET EAST,Rural,78.61%,0.91%,0.09%,1.82%,16.61%,0.12%,0.04%,0.04%,1.76%,30858,24258,281,28,561,5126,37,12,12,543,Uasin Gishu,"Physical Infrastructure, Housing",,RIFT VALLEY,248
+WARENG,Rural,82.75%,1.28%,0.01%,2.33%,9.82%,0.25%,0.13%,0%,3.42%,27767,22977,356,3,648,2727,70,35,1,950,Uasin Gishu,"Physical Infrastructure, Housing",,RIFT VALLEY,249
+MARAKWET,Rural,43.26%,0.77%,0.04%,0.8%,53.46%,0.26%,0.2%,0.13%,1.08%,37581,16257,291,15,301,20090,98,75,49,405,Elgeyo Marakwet,"Physical Infrastructure, Housing",,RIFT VALLEY,250
+KEIYO,Rural,69.08%,0.82%,0.04%,1.69%,27.97%,0.18%,0.05%,0.02%,0.14%,28366,19596,234,11,480,7933,52,13,6,41,Elgeyo Marakwet,"Physical Infrastructure, Housing",,RIFT VALLEY,251
+NANDI NORTH,Rural,77%,0.66%,0.02%,1.7%,20.32%,0.15%,0.09%,0.02%,0.05%,31090,23938,206,6,527,6317,47,28,6,15,Nandi,"Physical Infrastructure, Housing",,RIFT VALLEY,252
+NANDI CENTRAL,Rural,85.14%,0.75%,0.04%,0.94%,12.73%,0.04%,0.08%,0.01%,0.27%,28306,24099,211,12,266,3604,11,24,3,76,Nandi,"Physical Infrastructure, Housing",,RIFT VALLEY,253
+NANDI EAST,Rural,88.09%,0.57%,0.15%,0.67%,10.26%,0.06%,0.05%,0.05%,0.11%,24916,21948,141,37,167,2556,15,12,12,28,Nandi,"Physical Infrastructure, Housing",,RIFT VALLEY,254
+NANDI SOUTH,Rural,81.55%,0.55%,0.02%,2.23%,15.24%,0.14%,0.24%,0.01%,0.01%,30643,24989,169,7,683,4670,43,75,3,4,Nandi,"Physical Infrastructure, Housing",,RIFT VALLEY,255
+TINDERET,Rural,63.32%,0.61%,0.01%,1.24%,34.24%,0.12%,0.09%,0.01%,0.37%,14488,9174,88,2,179,4961,17,13,1,53,Nandi,"Physical Infrastructure, Housing",,RIFT VALLEY,256
+LAIKIPIA NORTH,Rural,22.78%,0.28%,0.02%,1.27%,45.6%,0.82%,0.08%,25.02%,4.14%,6360,1449,18,1,81,2900,52,5,1591,263,Laikipia,"Physical Infrastructure, Housing",,RIFT VALLEY,257
+LAIKIPIA EAST,Rural,89.63%,0.54%,0.05%,1.52%,5.92%,0.44%,0.06%,0.75%,1.09%,26493,23747,143,12,404,1569,117,15,198,288,Laikipia,"Physical Infrastructure, Housing",,RIFT VALLEY,258
+LAIKIPIA WEST,Rural,81.76%,0.58%,0.02%,2.78%,11.23%,0.55%,0.09%,2.01%,0.98%,40969,33495,236,8,1139,4602,225,37,824,403,Laikipia,"Physical Infrastructure, Housing",,RIFT VALLEY,259
+NAKURU,Rural,87.91%,1.62%,0.03%,2.09%,7.29%,0.15%,0.03%,0.36%,0.53%,33651,29584,544,10,702,2454,49,9,122,177,Nakuru,"Physical Infrastructure, Housing",,RIFT VALLEY,260
+NAKURU NORTH,Rural,96.49%,0.73%,0.15%,1.12%,0.8%,0.11%,0.12%,0.18%,0.3%,31876,30756,233,47,358,256,34,39,56,97,Nakuru,"Physical Infrastructure, Housing",,RIFT VALLEY,261
+NAIVASHA,Rural,85.18%,1.02%,0.08%,2.11%,5.54%,0.15%,0.12%,0.54%,5.26%,36286,30910,371,29,767,2009,54,43,196,1907,Nakuru,"Physical Infrastructure, Housing",,RIFT VALLEY,262
+MOLO,Rural,75.28%,0.74%,0.08%,3.14%,19.55%,0.46%,0.19%,0.05%,0.51%,94240,70946,701,76,2955,18425,435,177,43,482,Nakuru,"Physical Infrastructure, Housing",,RIFT VALLEY,263
+NAROK NORTH,Rural,63.7%,0.7%,0.02%,6.45%,13.61%,2.9%,0.75%,7.39%,4.49%,42946,27355,300,10,2769,5844,1244,322,3175,1927,Narok,"Physical Infrastructure, Housing",,RIFT VALLEY,264
+NAROK SOUTH,Rural,43.71%,0.38%,0.06%,1.85%,27.46%,0.73%,0.26%,24.41%,1.15%,62326,27242,237,38,1155,17112,453,159,15211,719,Narok,"Physical Infrastructure, Housing",,RIFT VALLEY,265
+TRANS MARA,Rural,25.77%,0.32%,0.08%,1.45%,71.08%,0.46%,0.13%,0.56%,0.13%,47318,12196,153,39,688,33636,219,61,264,62,Narok,"Physical Infrastructure, Housing",,RIFT VALLEY,266
+KAJIADO CENTRAL,Rural,36.59%,0.69%,0.05%,1.66%,14.75%,0.36%,0.25%,43.77%,1.87%,26342,9638,183,14,438,3885,94,67,11531,492,Kajiado,"Physical Infrastructure, Housing",,RIFT VALLEY,267
+LOITOKITOK,Rural,47.22%,0.55%,0.06%,2.9%,39.83%,1.19%,1.52%,5.88%,0.86%,25478,12030,140,16,739,10147,302,386,1498,220,Kajiado,"Physical Infrastructure, Housing",,RIFT VALLEY,268
+KERICHO,Rural,76.27%,0.54%,2.19%,1.03%,19.68%,0.11%,0.04%,0.14%,0.01%,52870,40322,284,1156,542,10407,58,22,73,6,Kericho,"Physical Infrastructure, Housing",,RIFT VALLEY,269
+KIPKELION,Rural,77.3%,0.7%,0.03%,1.29%,20.4%,0.1%,0.04%,0.03%,0.13%,23662,18291,165,6,305,4826,23,9,6,31,Kericho,"Physical Infrastructure, Housing",,RIFT VALLEY,270
+BURET,Rural,87.53%,0.85%,1.8%,1.69%,7.32%,0.18%,0.56%,0.03%,0.04%,57560,50382,487,1034,971,4216,103,324,18,25,Bomet,"Physical Infrastructure, Housing",,RIFT VALLEY,271
+SOTIK,Rural,64.79%,1.98%,0.06%,1.58%,31.26%,0.1%,0.06%,0.16%,0%,33615,21780,667,20,531,10509,32,21,55,0,Bomet,"Physical Infrastructure, Housing",,RIFT VALLEY,272
+BOMET,Rural,58.25%,0.56%,0.04%,1.04%,39.52%,0.22%,0.28%,0.07%,0.03%,56067,32660,312,25,582,22155,125,156,37,15,Bomet,"Physical Infrastructure, Housing",,RIFT VALLEY,273
+KAJIADO NORTH,Rural,64.52%,5.13%,1.19%,2.43%,12.22%,0.67%,0.07%,12.75%,1.03%,34412,22202,1765,409,835,4206,229,24,4389,353,Kajiado,"Physical Infrastructure, Housing",,RIFT VALLEY,274
+KAKAMEGA CENTRAL,Urban,93.98%,1.24%,0.87%,2.65%,1%,0.04%,0.08%,0.12%,0.02%,23661,22236,293,206,627,236,10,19,29,5,Kakamega,"Physical Infrastructure, Housing",,WESTERN,275
+KAKAMEGA SOUTH,Urban,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Kakamega,"Physical Infrastructure, Housing",,WESTERN,276
+KAKAMEGA NORTH,Urban,79.69%,0.57%,0.24%,9.67%,9.34%,0%,0.49%,0%,0%,1231,981,7,3,119,115,0,6,0,0,Kakamega,"Physical Infrastructure, Housing",,WESTERN,277
+KAKAMEGA EAST,Urban,93.8%,0.58%,3.29%,0%,2.33%,0%,0%,0%,0%,516,484,3,17,0,12,0,0,0,0,Kakamega,"Physical Infrastructure, Housing",,WESTERN,278
+LUGARI,Urban,96.62%,0.67%,0.69%,1.02%,0.69%,0.02%,0.27%,0.02%,0%,4796,4634,32,33,49,33,1,13,1,0,Kakamega,"Physical Infrastructure, Housing",,WESTERN,279
+VIHIGA,Urban,90.58%,1.06%,0.51%,4.89%,2.55%,0.09%,0.28%,0.02%,0.01%,27516,24924,291,141,1345,703,24,78,6,4,Vihiga,"Physical Infrastructure, Housing",,WESTERN,280
+EMUHAYA,Urban,94.55%,0.62%,0.15%,0.52%,3.84%,0.03%,0.21%,0.08%,0.02%,11644,11009,72,17,60,447,3,25,9,2,Vihiga,"Physical Infrastructure, Housing",,WESTERN,281
+HAMISI,Urban,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Vihiga,"Physical Infrastructure, Housing",,WESTERN,282
+MUMIAS,Urban,79.35%,0.42%,0.14%,4.75%,14.92%,0.03%,0.33%,0.05%,0.01%,27849,22098,117,40,1322,4154,9,92,15,2,Kakamega,"Physical Infrastructure, Housing",,WESTERN,283
+BUTERE,Urban,77.56%,0.38%,0.55%,8.42%,13.03%,0%,0%,0.07%,0%,2923,2267,11,16,246,381,0,0,2,0,Kakamega,"Physical Infrastructure, Housing",,WESTERN,284
+BUNGOMA SOUTH,Urban,91.02%,0.86%,0.82%,1.63%,5.39%,0.13%,0.08%,0.04%,0.03%,21982,20007,188,181,358,1185,29,18,9,7,Bungoma,"Physical Infrastructure, Housing",,WESTERN,285
+BUNGOMA NORTH,Urban,88.26%,0.43%,0.11%,2.07%,8.07%,0.11%,0.92%,0.03%,0.01%,19552,17256,84,22,405,1577,22,180,5,1,Bungoma,"Physical Infrastructure, Housing",,WESTERN,286
+BUNGOMA EAST,Urban,92.23%,1.3%,0.43%,1.79%,4.15%,0.04%,0.04%,0.03%,0%,13940,12857,181,60,249,578,6,5,4,0,Bungoma,"Physical Infrastructure, Housing",,WESTERN,287
+BUNGOMA WEST,Urban,70.73%,0.47%,0.13%,6.58%,21.94%,0.01%,0.04%,0.08%,0.01%,7479,5290,35,10,492,1641,1,3,6,1,Bungoma,"Physical Infrastructure, Housing",,WESTERN,288
+MT. ELGON,Urban,90.06%,0.39%,0.09%,0.44%,7.02%,0%,0.22%,0%,1.79%,2293,2065,9,2,10,161,0,5,0,41,Bungoma,"Physical Infrastructure, Housing",,WESTERN,289
+BUSIA,Urban,86.72%,0.51%,0.24%,1.72%,10.19%,0.56%,0.04%,0%,0.03%,10562,9159,54,25,182,1076,59,4,0,3,Busia,"Physical Infrastructure, Housing",,WESTERN,290
+TESO NORTH,Urban,53.85%,0.43%,0.64%,0.53%,44.3%,0.19%,0%,0.04%,0.01%,9934,5349,43,64,53,4401,19,0,4,1,Busia,"Physical Infrastructure, Housing",,WESTERN,291
+SAMIA,Urban,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,Busia,"Physical Infrastructure, Housing",,WESTERN,292
+BUNYALA,Urban,90.7%,0.29%,0.12%,1.29%,7.31%,0.18%,0%,0.12%,0%,1710,1551,5,2,22,125,3,0,2,0,Busia,"Physical Infrastructure, Housing",,WESTERN,293
+TESO SOUTH,Urban,82.32%,1.54%,0.24%,2.38%,13.46%,0.02%,0%,0.03%,0%,5912,4867,91,14,141,796,1,0,2,0,Busia,"Physical Infrastructure, Housing",,WESTERN,294
+KAKAMEGA CENTRAL,Rural,72.55%,0.54%,0.06%,1.43%,25.22%,0.12%,0.03%,0.05%,0%,41339,29990,224,23,591,10427,50,11,21,2,Kakamega,"Physical Infrastructure, Housing",,WESTERN,295
+KAKAMEGA SOUTH,Rural,90.11%,0.62%,0.07%,2.26%,6.72%,0.17%,0.03%,0.02%,0%,23142,20854,143,16,522,1556,39,7,4,1,Kakamega,"Physical Infrastructure, Housing",,WESTERN,296
+KAKAMEGA NORTH,Rural,57.04%,0.31%,0.06%,3.52%,38.73%,0.03%,0.04%,0.02%,0.25%,39402,22473,123,23,1388,15262,11,14,9,99,Kakamega,"Physical Infrastructure, Housing",,WESTERN,297
+KAKAMEGA EAST,Rural,79.64%,0.66%,0.06%,3.89%,15.58%,0.06%,0.07%,0.03%,0.02%,33657,26803,221,20,1309,5243,21,23,11,6,Kakamega,"Physical Infrastructure, Housing",,WESTERN,298
+LUGARI,Rural,84.15%,0.61%,0.07%,2.48%,12.38%,0.07%,0.14%,0.03%,0.07%,54649,45988,334,38,1355,6763,40,75,17,39,Kakamega,"Physical Infrastructure, Housing",,WESTERN,299
+VIHIGA,Rural,93.34%,0.71%,0.06%,1.53%,4.27%,0.05%,0.02%,0.01%,0%,20644,19270,146,13,315,882,11,4,2,1,Vihiga,"Physical Infrastructure, Housing",,WESTERN,300
+EMUHAYA,Rural,93.11%,0.63%,0.08%,1.44%,4.3%,0.1%,0.33%,0.02%,0.01%,31357,29195,197,25,450,1347,30,103,6,4,Vihiga,"Physical Infrastructure, Housing",,WESTERN,301
+HAMISI,Rural,91.96%,0.58%,0.13%,2.67%,4.1%,0.07%,0.39%,0.07%,0.04%,32080,29500,185,43,856,1315,22,124,23,12,Vihiga,"Physical Infrastructure, Housing",,WESTERN,302
+MUMIAS,Rural,66.35%,0.53%,0.05%,0.76%,31.69%,0.09%,0.49%,0.04%,0%,50694,33636,270,26,383,16066,44,246,21,2,Kakamega,"Physical Infrastructure, Housing",,WESTERN,303
+BUTERE,Rural,77.6%,0.56%,0.09%,1.35%,20.05%,0.11%,0.21%,0.03%,0.01%,51516,39977,288,48,694,10327,59,106,13,4,Kakamega,"Physical Infrastructure, Housing",,WESTERN,304
+BUNGOMA SOUTH,Rural,66.46%,0.54%,0.04%,3.05%,29.55%,0.08%,0.24%,0.04%,0%,61231,40692,332,24,1868,18092,47,148,26,2,Bungoma,"Physical Infrastructure, Housing",,WESTERN,305
+BUNGOMA NORTH,Rural,89.06%,0.61%,0.07%,2.04%,8.14%,0.03%,0.01%,0.02%,0.01%,41908,37323,255,29,857,3412,14,5,10,3,Bungoma,"Physical Infrastructure, Housing",,WESTERN,306
+BUNGOMA EAST,Rural,84.58%,0.37%,0.02%,3.55%,11.19%,0.02%,0.25%,0.02%,0.01%,31944,27018,118,5,1133,3574,7,81,5,3,Bungoma,"Physical Infrastructure, Housing",,WESTERN,307
+BUNGOMA WEST,Rural,73.79%,0.51%,0.03%,2.59%,22.82%,0.06%,0.02%,0.1%,0.08%,40153,29627,203,14,1039,9164,24,8,41,33,Bungoma,"Physical Infrastructure, Housing",,WESTERN,308
+MT. ELGON,Rural,60.7%,0.43%,0.05%,2.39%,35.01%,0.26%,0.26%,0.03%,0.86%,30119,18282,129,16,720,10544,79,79,10,260,Bungoma,"Physical Infrastructure, Housing",,WESTERN,309
+BUSIA,Rural,49.66%,0.46%,0.03%,2.15%,47.44%,0.08%,0.13%,0.03%,0.02%,58208,28909,265,20,1253,27611,48,78,15,9,Busia,"Physical Infrastructure, Housing",,WESTERN,310
+TESO NORTH,Rural,29.2%,0.42%,0.03%,1.22%,69.07%,0.04%,0.01%,0.01%,0%,13490,3939,57,4,165,9317,5,1,2,0,Busia,"Physical Infrastructure, Housing",,WESTERN,311
+SAMIA,Rural,52.69%,0.72%,0.05%,2.01%,44.16%,0.22%,0.02%,0.04%,0.08%,19385,10214,139,10,390,8561,43,4,8,16,Busia,"Physical Infrastructure, Housing",,WESTERN,312
+BUNYALA,Rural,58.22%,0.5%,0.04%,1.63%,38.5%,0.15%,0.07%,0.01%,0.89%,13535,7880,67,5,221,5211,20,9,2,120,Busia,"Physical Infrastructure, Housing",,WESTERN,313
+TESO SOUTH,Rural,25.44%,0.36%,0.03%,0.66%,73.39%,0.07%,0.02%,0.01%,0.02%,21344,5429,77,6,141,15664,16,4,3,4,Busia,"Physical Infrastructure, Housing",,WESTERN,314
