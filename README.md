@@ -29,3 +29,5 @@ learning. And no, there aren’t hidden tricks and secrets to uncover.
 <code>
  df=df.dropna(axis=0, how='any')
  </code>
+
+<b> dropna function here yields a dataframe as its output, and you can save it either as a DataFrame. </b>
