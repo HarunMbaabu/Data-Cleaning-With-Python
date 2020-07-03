@@ -21,3 +21,11 @@ learning. And no, there aren’t hidden tricks and secrets to uncover.
  The data set  is small compared to real data machine learning models data set. i kept it simple to ease coding.
 
 
+
+<h1> useful functions</h1>
+
+<b>Removing NA from the data set: </b> <br>
+
+<code>
+ df=df.dropna(axis=0, how='any')
+ </code>
