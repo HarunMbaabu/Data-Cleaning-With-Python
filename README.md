@@ -63,7 +63,34 @@ data.shape
 data.describe()
 ~~~
 
-#### Removing NA from the data set:
+####Removing NAN, N/A & na
+
+Remember python pandas library only recognizes nan as the missing value so it will skip any missing value recorderd with na or N/A, the steps below helps us solve that problem
+
+~~~python
+#Define a list to hold all representation of missing values 
+
+missing_values = [ np.nan, 'N/A', 'na'] 
+
+data = pd.read_csv("sample_data.csv", missing_values")
+~~~
+
+#### Checking for any missing value:
+You can use different ways to chech for missing value 
+
+~~~python
+data.isnull()
+#or
+data.isnull().sum() 
+#or 
+data.isnull().any()
+~~~
+
+#### Visualizing the missing value with seaborn 
+~~~python
+sns.headmap(isnull(), yticklabels=False annot=True)
+~~~
+#### Removing missing values from the data set:
 
 ~~~python
  df=df.dropna(axis=0, how='any')
