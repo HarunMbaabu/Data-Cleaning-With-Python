@@ -33,8 +33,8 @@ imort seabrom as sns
 
 #### Loading dataset with pandas 
 ~~~python
-#csv file
-data = pd.read_csv("sample_data.csv")
+#csv file, we will use the property data.csv file
+data = pd.read_csv("property data.csv")
 
 #loading excel
 data_from_excel = pd.read_xlxs("  path to your file ") 
