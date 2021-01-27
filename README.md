@@ -113,3 +113,12 @@ data.fillna(method="bfill")
 
 data.interpolate()
 ~~~
+
+
+#### Filling the missing values with a specific know value:
+
+~~~python
+data.fillna({
+ 'Column_to_substitute' : TheValue
+ })
+ ~~~
