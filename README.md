@@ -31,6 +31,20 @@ imort seabrom as sns
 %autoreload 2
 ~~~
 
+#### Loading dataset with pandas 
+~~~python
+#csv file
+data = pd.read_csv("sample_data.csv")
+
+#loading excel
+data_form_excel = pd.read_xlxs("  path to your file ")
+~~~
+
+#### Viewing data 
+
+~~~python 
+
+
 #### Removing NA from the data set:
 
 ~~~python
