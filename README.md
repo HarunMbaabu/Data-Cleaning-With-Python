@@ -37,10 +37,15 @@ imort seabrom as sns
 data = pd.read_csv("sample_data.csv")
 
 #loading excel
-data_form_excel = pd.read_xlxs("  path to your file ")
+data_from_excel = pd.read_xlxs("  path to your file ") 
+
+#Loading a json file 
+data_from_excel = pd.read_json ("Path where you saved the JSON file")
+
 ~~~
 
 #### Viewing data 
+
 
 ~~~python 
 
