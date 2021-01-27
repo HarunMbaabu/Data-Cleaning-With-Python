@@ -69,4 +69,6 @@ data.describe()
  df=df.dropna(axis=0, how='any')
 ~~~
 
-##### dropna function here yields a dataframe as its output, and you can save it either as a DataFrame.
+##### dropna function here yields a dataframe as its output, and you can save it either as a DataFrame. 
+
+#### Visualizing the dataset using matplotlib and seaborn 
