@@ -46,8 +46,13 @@ data_from_excel = pd.read_json ("Path where you saved the JSON file")
 
 #### Viewing data 
 
+~~~python
+#Viewing the first 5 rows
+data.head()
 
-~~~python 
+#viewing the last 5 rows
+data.tail()
+~~~ 
 
 
 #### Removing NA from the data set:
