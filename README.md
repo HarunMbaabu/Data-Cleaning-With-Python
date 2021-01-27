@@ -122,3 +122,5 @@ data.fillna({
  'Column_to_substitute' : TheValue
  })
  ~~~
+
+Get the latest snippets: https://colab.research.google.com/drive/18pYbCHhTQkjBGCYF2qM0-M0_pA6DfUso#scrollTo=h5RHxT3x4A6Y
