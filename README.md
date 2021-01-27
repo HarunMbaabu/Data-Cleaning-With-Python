@@ -123,6 +123,14 @@ data.fillna({
  })
  ~~~
  
+ #### Viewing columns 
+ In pandas we use the code below to view all the column in our dataset
+ 
+ ~~~python
+ #Viewing columns in data dataframe
+ data.column
+ ~~~
+ 
  #### Remaning the columns 
  Example when i have a column called Duration that i want to name to Time i will use the snippets below
  
