@@ -96,6 +96,20 @@ sns.headmap(isnull(), yticklabels=False annot=True)
  df=df.dropna(axis=0, how='any')
 ~~~
 
-##### dropna function here yields a dataframe as its output, and you can save it either as a DataFrame. 
+How is used to instruct which low should be removed, that is when how is setted to all, it drops a row if all values are missing.
 
-#### Visualizing the dataset using matplotlib and seaborn 
+#### Filling the missing values:
+
+~~~python
+#Forward fill, fills the missing value with the values above it.
+
+data.fillna(method="ffill") 
+
+#Back fill, fills the missing value with the values below it.
+
+data.fillna(method="bfill") 
+ 
+#Interploation finds the average for the above and below value and uses the value to fill the missing value
+
+data.interpolate()
+~~~
