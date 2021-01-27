@@ -122,5 +122,15 @@ data.fillna({
  'Column_to_substitute' : TheValue
  })
  ~~~
+ 
+ #### Remaning the columns 
+ Example when i have a column called Duration that i want to name to Time i will use the snippets below
+ 
+ ~~~python
+ df.rename({"Duration": "Time"})
+ 
+ ~~~
+ 
+ 
 
 Get the latest snippets: https://colab.research.google.com/drive/18pYbCHhTQkjBGCYF2qM0-M0_pA6DfUso#scrollTo=h5RHxT3x4A6Y
