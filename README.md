@@ -131,6 +131,16 @@ data.fillna({
  data.column
  ~~~
  
+ #### Changing the letter casing of our column
+ 
+ ~~~python
+ #to lowercase
+ data.columns.str.lower()
+ 
+ #to uppercase
+data.columns.str.upper()
+ ~~~
+ 
  #### Remaning the columns 
  Example when i have a column called Duration that i want to name to Time i will use the snippets below
  
