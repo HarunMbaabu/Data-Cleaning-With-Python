@@ -1,10 +1,6 @@
 # Data Cleaning.
 
 
-
-
-
-
 Data cleaning is the process of preparing data for analysis by removing or modifying data
 that is incorrect, incomplete, irrelevant, duplicated, or improperly formatted.
 
@@ -22,12 +18,23 @@ learning. And no, there aren’t hidden tricks and secrets to uncover.
 
 
 
-<h1> useful functions</h1>
+### Useful Functions 
 
-<b>Removing NA from the data set: </b> <br>
+#### Loading Libraries
+~~~python
+import pandas as  pd 
+import numpy as np 
+import matplotlib.pyplot as plt
+imort seabrom as sns 
+%matplotlib inline 
+%load_ext autoreload
+%autoreload 2
+~~~
 
-<code>
+#### Removing NA from the data set:
+
+~~~python
  df=df.dropna(axis=0, how='any')
- </code>
+~~~
 
-<b> dropna function here yields a dataframe as its output, and you can save it either as a DataFrame. </b>
+##### dropna function here yields a dataframe as its output, and you can save it either as a DataFrame.
