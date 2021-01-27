@@ -54,6 +54,14 @@ data.head()
 data.tail()
 ~~~ 
 
+#### Inspecting the dataset
+~~~python
+#Dataset shape
+data.shape
+
+#Dataset basic analysis
+data.describe()
+~~~
 
 #### Removing NA from the data set:
 
