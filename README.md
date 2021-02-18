@@ -123,6 +123,9 @@ data.fillna({
  })
  ~~~
  
+ <hr>
+ Note that when the column or row has 80%+ missing values, the simplest  and the best way to treat is  by dropping the row/column
+ 
  #### Viewing columns 
  In pandas we use the code below to view all the column in our dataset
  
