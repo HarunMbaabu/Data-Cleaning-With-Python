@@ -63,7 +63,7 @@ data.shape
 data.describe()
 ~~~
 
-####Removing NAN, N/A & na
+#### Removing NAN, N/A & na
 
 Remember python pandas library only recognizes nan as the missing value so it will skip any missing value recorderd with na or N/A, the steps below helps us solve that problem
 
