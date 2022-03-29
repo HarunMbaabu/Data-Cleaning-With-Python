@@ -8,7 +8,13 @@ that is incorrect, incomplete, irrelevant, duplicated, or improperly formatted.
 
 Data cleaning is one those things that everyone does but no one really talks about. 
 Sure, it’s not the "sexiest" part of machine
-learning. And no, there aren’t hidden tricks and secrets to uncover.
+learning. And no, there aren’t hidden tricks and secrets to uncover. 
+
+
+### **Types of Errors**
+1). Missing Values 
+2). Bad Values 
+3). Duplicates
 
  Added a data cleaning using python/ pandas library (2rd october 2019) using property data.csv  data set.
  
