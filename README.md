@@ -33,7 +33,7 @@ learning. And no, there aren’t hidden tricks and secrets to uncover.
 import pandas as  pd 
 import numpy as np 
 import matplotlib.pyplot as plt
-imort seabrom as sns 
+imort seabron as sns 
 %matplotlib inline 
 %load_ext autoreload
 %autoreload 2
