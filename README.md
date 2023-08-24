@@ -45,10 +45,10 @@ imort seabrom as sns
 data = pd.read_csv("property_data.csv")
 
 #loading excel
-data_from_excel = pd.read_xlxs("  path to your file ") 
+data_from_excel = pd.read_xlxs("property_data.xlsx") 
 
 #Loading a json file 
-data_from_excel = pd.read_json ("Path where you saved the JSON file")
+data_from_excel = pd.read_json ("property_data.json")
 
 ~~~
 
